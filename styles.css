@@ -2,6 +2,10 @@ img {
   width: 100px;
 }
 
+li {
+  margin: 10px;
+}
+
 .flex {
   
 }
@@ -11,4 +15,6 @@ img {
   display: flex;
   flex-wrap: wrap;
   display: flex;
+  color: aqua;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
