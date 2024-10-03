@@ -2,6 +2,13 @@ img {
   width: 100px;
 }
 
+.flex {
+  
+}
+
 * {
   background-image: url(space.jpg);
+  display: flex;
+  flex-wrap: wrap;
+  display: flex;
 }
